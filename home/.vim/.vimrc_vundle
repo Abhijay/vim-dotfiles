@@ -14,7 +14,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 " autocomplete plugin
 " Plugin 'ervandew/supertab'
-Plugin 'valloric/youcompleteme'
+" Plugin 'valloric/youcompleteme'
 
 " auto-detect indentation
 Plugin 'sheerun/vim-polyglot'
